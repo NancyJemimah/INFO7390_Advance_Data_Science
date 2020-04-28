@@ -1,0 +1,15 @@
+There are three blogs that are created by me, the contents are written by me after studying the 
+topics in depth shared by the resources provided by the professor.
+
+Please share your insights 
+
+Article 1 - Basic Concepts --> https://medium.com/@nancyjemi/basics-reinforcement-learning-66aae5da4c85
+
+Article 2 - Level up Q learning --> https://medium.com/@nancyjemi/level-up-understanding-q-learning-cf739867eb1d
+
+Article 3 - Deep Q learning explained --> https://medium.com/@nancyjemi/deep-q-learning-explained-65df980aac6f
+
+
+Thank you for reading my articles.
+
+Happy Learning.
